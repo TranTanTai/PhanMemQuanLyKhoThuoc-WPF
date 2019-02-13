@@ -1,0 +1,113 @@
+﻿<Window x:Class="QuanLyKho.ChangeUserWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:QuanLyKho"
+        mc:Ignorable="d"
+        xmlns:i="http://schemas.microsoft.com/expression/2010/interactivity"
+        xmlns:uc="clr-namespace:QuanLyKho.UserControlT"
+        xmlns:materialDesign="http://materialdesigninxaml.net/winfx/xaml/themes"
+        TextElement.Foreground="{DynamicResource MaterialDesignBody}"
+        TextElement.FontWeight="Regular"
+        TextElement.FontSize="13"
+        TextOptions.TextFormattingMode="Ideal"
+        TextOptions.TextRenderingMode="Auto"
+        FontFamily="{DynamicResource MaterialDesignFont}"
+        ResizeMode="NoResize"
+        WindowStyle="None"
+        WindowStartupLocation="CenterScreen"
+        DataContext="{StaticResource ChangeUserVM}"
+        Name="changeuserwindow"
+        Icon="icon.ico"
+        Title="Thay đổi thông tin" Height="400" Width="390">
+    <Window.Background>
+        <ImageBrush ImageSource="background.jpg"/>
+    </Window.Background>
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="auto"></RowDefinition>
+            <RowDefinition></RowDefinition>
+        </Grid.RowDefinitions>
+        <Grid Grid.Row="0">
+            <uc:ControlBarUC Tag="{Binding Title, ElementName=changeuserwindow}"></uc:ControlBarUC>
+        </Grid>
+        <materialDesign:Card Grid.Row="1" Width="350" Height="330" HorizontalAlignment="Center" VerticalAlignment="Center">
+            <Grid>
+                <Grid.Resources>
+                    <Style TargetType="Grid">
+                        <Setter Property="Margin" Value="15 0 15 0"></Setter>
+                    </Style>
+                </Grid.Resources>
+                <Grid.RowDefinitions>
+                    <RowDefinition></RowDefinition>
+                    <RowDefinition></RowDefinition>
+                    <RowDefinition></RowDefinition>
+                    <RowDefinition></RowDefinition>
+                    <RowDefinition></RowDefinition>
+                    <RowDefinition></RowDefinition>
+                </Grid.RowDefinitions>
+                <Grid Grid.Row="0">
+                    <TextBox materialDesign:HintAssist.Hint="Tên hiển thị"
+                             Text="{Binding Displayname}"
+                             Style="{StaticResource MaterialDesignFloatingHintTextBox}" />
+                </Grid>
+                <Grid Grid.Row="1">
+                    <TextBox materialDesign:HintAssist.Hint="Tên đăng nhập"
+                             Text="{Binding UserName}"
+                             Style="{StaticResource MaterialDesignFloatingHintTextBox}" IsEnabled="False"/>
+                </Grid>
+                <Grid Grid.Row="2">
+                    <PasswordBox x:Name="FloatingPasswordBox"
+                                 materialDesign:HintAssist.Hint="Mật khẩu cũ"
+                                 Style="{StaticResource MaterialDesignFloatingHintPasswordBox}" >
+                        <i:Interaction.Triggers>
+                            <i:EventTrigger EventName="PasswordChanged">
+                                <i:InvokeCommandAction Command="{Binding PasswordChangedCommand}" 
+                                   CommandParameter="{Binding ElementName=FloatingPasswordBox}"/>
+                            </i:EventTrigger>
+                        </i:Interaction.Triggers>
+                    </PasswordBox>
+                </Grid>
+                <Grid Grid.Row="3">
+                    <PasswordBox x:Name="APasswordBox"
+                                 materialDesign:HintAssist.Hint="Mật khẩu mới"
+                                 Style="{StaticResource MaterialDesignFloatingHintPasswordBox}" >
+                        <i:Interaction.Triggers>
+                            <i:EventTrigger EventName="PasswordChanged">
+                                <i:InvokeCommandAction Command="{Binding PasswordChangedNewCommand}" 
+                                   CommandParameter="{Binding ElementName=APasswordBox}"/>
+                            </i:EventTrigger>
+                        </i:Interaction.Triggers>
+                    </PasswordBox>
+                </Grid>
+                <Grid Grid.Row="4">
+                    <PasswordBox x:Name="BPasswordBox"
+                                 materialDesign:HintAssist.Hint="Nhập lại mật khẩu"
+                                 Style="{StaticResource MaterialDesignFloatingHintPasswordBox}" >
+                        <i:Interaction.Triggers>
+                            <i:EventTrigger EventName="PasswordChanged">
+                                <i:InvokeCommandAction Command="{Binding PasswordChangedNew2Command}" 
+                                   CommandParameter="{Binding ElementName=BPasswordBox}"/>
+                            </i:EventTrigger>
+                        </i:Interaction.Triggers>
+                    </PasswordBox>
+                </Grid>
+                <Grid Grid.Row="5">
+                    <Grid.ColumnDefinitions>
+                        <ColumnDefinition></ColumnDefinition>
+                    </Grid.ColumnDefinitions>
+                    <Button Grid.Column="0"    
+                            IsDefault="True"
+                            Style="{StaticResource MaterialDesignRaisedButton}"    
+                            Width="110" 
+                            Background="Blue"
+                            Command="{Binding SaveCommand}"
+                            CommandParameter="{Binding ElementName=changeuserwindow}"
+                            Content="Cập nhật" BorderBrush="Blue"></Button>
+                </Grid>
+            </Grid>
+        </materialDesign:Card>
+    </Grid>
+</Window>

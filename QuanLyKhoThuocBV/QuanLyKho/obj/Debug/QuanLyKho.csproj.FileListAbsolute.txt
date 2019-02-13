@@ -1,0 +1,236 @@
+C:\Users\MyPC\Desktop\ĐA\QuanLyKhoBV\QuanLyKho\bin\Debug\QuanLyKho.exe.config
+C:\Users\MyPC\Desktop\ĐA\QuanLyKhoBV\QuanLyKho\obj\Debug\QuanLyKho.csproj.ResolveComReference.cache
+C:\Users\MyPC\Desktop\ĐA\QuanLyKhoBV\QuanLyKho\bin\Debug\QuanLyKho.exe
+C:\Users\MyPC\Desktop\ĐA\QuanLyKhoBV\QuanLyKho\bin\Debug\QuanLyKho.pdb
+C:\Users\MyPC\Desktop\ĐA\QuanLyKhoBV\QuanLyKho\bin\Debug\EntityFramework.dll
+C:\Users\MyPC\Desktop\ĐA\QuanLyKhoBV\QuanLyKho\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\MyPC\Desktop\ĐA\QuanLyKhoBV\QuanLyKho\bin\Debug\EPPlus.dll
+C:\Users\MyPC\Desktop\ĐA\QuanLyKhoBV\QuanLyKho\bin\Debug\MaterialDesignColors.dll
+C:\Users\MyPC\Desktop\ĐA\QuanLyKhoBV\QuanLyKho\bin\Debug\MaterialDesignThemes.Wpf.dll
+C:\Users\MyPC\Desktop\ĐA\QuanLyKhoBV\QuanLyKho\bin\Debug\Microsoft.Expression.Interactions.dll
+C:\Users\MyPC\Desktop\ĐA\QuanLyKhoBV\QuanLyKho\bin\Debug\System.Windows.Interactivity.dll
+C:\Users\MyPC\Desktop\ĐA\QuanLyKhoBV\QuanLyKho\bin\Debug\WebDriver.dll
+C:\Users\MyPC\Desktop\ĐA\QuanLyKhoBV\QuanLyKho\bin\Debug\EntityFramework.xml
+C:\Users\MyPC\Desktop\ĐA\QuanLyKhoBV\QuanLyKho\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\MyPC\Desktop\ĐA\QuanLyKhoBV\QuanLyKho\bin\Debug\EPPlus.xml
+C:\Users\MyPC\Desktop\ĐA\QuanLyKhoBV\QuanLyKho\bin\Debug\MaterialDesignThemes.Wpf.pdb
+C:\Users\MyPC\Desktop\ĐA\QuanLyKhoBV\QuanLyKho\bin\Debug\MaterialDesignThemes.Wpf.xml
+C:\Users\MyPC\Desktop\ĐA\QuanLyKhoBV\QuanLyKho\bin\Debug\Microsoft.Expression.Interactions.xml
+C:\Users\MyPC\Desktop\ĐA\QuanLyKhoBV\QuanLyKho\bin\Debug\System.Windows.Interactivity.xml
+C:\Users\MyPC\Desktop\ĐA\QuanLyKhoBV\QuanLyKho\bin\Debug\WebDriver.xml
+C:\Users\MyPC\Desktop\ĐA\QuanLyKhoBV\QuanLyKho\obj\Debug\QuanLyKho.csprojResolveAssemblyReference.cache
+C:\Users\MyPC\Desktop\ĐA\QuanLyKhoBV\QuanLyKho\obj\Debug\ChangeUserWindow.g.cs
+C:\Users\MyPC\Desktop\ĐA\QuanLyKhoBV\QuanLyKho\obj\Debug\CustomerWindow.g.cs
+C:\Users\MyPC\Desktop\ĐA\QuanLyKhoBV\QuanLyKho\obj\Debug\InputWindow.g.cs
+C:\Users\MyPC\Desktop\ĐA\QuanLyKhoBV\QuanLyKho\obj\Debug\LoginWindow.g.cs
+C:\Users\MyPC\Desktop\ĐA\QuanLyKhoBV\QuanLyKho\obj\Debug\MainWindow.g.cs
+C:\Users\MyPC\Desktop\ĐA\QuanLyKhoBV\QuanLyKho\obj\Debug\ObjectWindow.g.cs
+C:\Users\MyPC\Desktop\ĐA\QuanLyKhoBV\QuanLyKho\obj\Debug\OutputWindow.g.cs
+C:\Users\MyPC\Desktop\ĐA\QuanLyKhoBV\QuanLyKho\obj\Debug\SuplierWindow.g.cs
+C:\Users\MyPC\Desktop\ĐA\QuanLyKhoBV\QuanLyKho\obj\Debug\TKInputWindow.g.cs
+C:\Users\MyPC\Desktop\ĐA\QuanLyKhoBV\QuanLyKho\obj\Debug\TKOutputWindow.g.cs
+C:\Users\MyPC\Desktop\ĐA\QuanLyKhoBV\QuanLyKho\obj\Debug\UnitWindow.g.cs
+C:\Users\MyPC\Desktop\ĐA\QuanLyKhoBV\QuanLyKho\obj\Debug\UserControlT\ControlBarUC.g.cs
+C:\Users\MyPC\Desktop\ĐA\QuanLyKhoBV\QuanLyKho\obj\Debug\UserWindow.g.cs
+C:\Users\MyPC\Desktop\ĐA\QuanLyKhoBV\QuanLyKho\obj\Debug\App.g.cs
+C:\Users\MyPC\Desktop\ĐA\QuanLyKhoBV\QuanLyKho\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\MyPC\Desktop\ĐA\QuanLyKhoBV\QuanLyKho\obj\Debug\QuanLyKho_MarkupCompile.cache
+C:\Users\MyPC\Desktop\ĐA\QuanLyKhoBV\QuanLyKho\obj\Debug\QuanLyKho_MarkupCompile.lref
+C:\Users\MyPC\Desktop\ĐA\QuanLyKhoBV\QuanLyKho\obj\Debug\App.baml
+C:\Users\MyPC\Desktop\ĐA\QuanLyKhoBV\QuanLyKho\obj\Debug\ChangeUserWindow.baml
+C:\Users\MyPC\Desktop\ĐA\QuanLyKhoBV\QuanLyKho\obj\Debug\CustomerWindow.baml
+C:\Users\MyPC\Desktop\ĐA\QuanLyKhoBV\QuanLyKho\obj\Debug\InputWindow.baml
+C:\Users\MyPC\Desktop\ĐA\QuanLyKhoBV\QuanLyKho\obj\Debug\LoginWindow.baml
+C:\Users\MyPC\Desktop\ĐA\QuanLyKhoBV\QuanLyKho\obj\Debug\MainWindow.baml
+C:\Users\MyPC\Desktop\ĐA\QuanLyKhoBV\QuanLyKho\obj\Debug\ObjectWindow.baml
+C:\Users\MyPC\Desktop\ĐA\QuanLyKhoBV\QuanLyKho\obj\Debug\OutputWindow.baml
+C:\Users\MyPC\Desktop\ĐA\QuanLyKhoBV\QuanLyKho\obj\Debug\ResourceXAML\MainResource.baml
+C:\Users\MyPC\Desktop\ĐA\QuanLyKhoBV\QuanLyKho\obj\Debug\SuplierWindow.baml
+C:\Users\MyPC\Desktop\ĐA\QuanLyKhoBV\QuanLyKho\obj\Debug\TKInputWindow.baml
+C:\Users\MyPC\Desktop\ĐA\QuanLyKhoBV\QuanLyKho\obj\Debug\TKOutputWindow.baml
+C:\Users\MyPC\Desktop\ĐA\QuanLyKhoBV\QuanLyKho\obj\Debug\UnitWindow.baml
+C:\Users\MyPC\Desktop\ĐA\QuanLyKhoBV\QuanLyKho\obj\Debug\UserControlT\ControlBarUC.baml
+C:\Users\MyPC\Desktop\ĐA\QuanLyKhoBV\QuanLyKho\obj\Debug\UserWindow.baml
+C:\Users\MyPC\Desktop\ĐA\QuanLyKhoBV\QuanLyKho\obj\Debug\QuanLyKho.g.resources
+C:\Users\MyPC\Desktop\ĐA\QuanLyKhoBV\QuanLyKho\obj\Debug\QuanLyKho.Properties.Resources.resources
+C:\Users\MyPC\Desktop\ĐA\QuanLyKhoBV\QuanLyKho\obj\Debug\QuanLyKho.csproj.GenerateResource.Cache
+C:\Users\MyPC\Desktop\ĐA\QuanLyKhoBV\QuanLyKho\obj\Debug\QuanLyKho.exe
+C:\Users\MyPC\Desktop\ĐA\QuanLyKhoBV\QuanLyKho\obj\Debug\QuanLyKho.pdb
+C:\Users\MyPC\Desktop\ĐA chính\QuanLyKhoBV\QuanLyKho\bin\Debug\QuanLyKho.exe.config
+C:\Users\MyPC\Desktop\ĐA chính\QuanLyKhoBV\QuanLyKho\obj\Debug\QuanLyKho.csproj.ResolveComReference.cache
+C:\Users\MyPC\Desktop\ĐA chính\QuanLyKhoBV\QuanLyKho\obj\Debug\QuanLyKho.exe
+C:\Users\MyPC\Desktop\ĐA chính\QuanLyKhoBV\QuanLyKho\obj\Debug\QuanLyKho.pdb
+C:\Users\MyPC\Desktop\ĐA chính\QuanLyKhoBV\QuanLyKho\bin\Debug\QuanLyKho.exe
+C:\Users\MyPC\Desktop\ĐA chính\QuanLyKhoBV\QuanLyKho\bin\Debug\QuanLyKho.pdb
+C:\Users\MyPC\Desktop\ĐA chính\QuanLyKhoBV\QuanLyKho\bin\Debug\EntityFramework.dll
+C:\Users\MyPC\Desktop\ĐA chính\QuanLyKhoBV\QuanLyKho\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\MyPC\Desktop\ĐA chính\QuanLyKhoBV\QuanLyKho\bin\Debug\EPPlus.dll
+C:\Users\MyPC\Desktop\ĐA chính\QuanLyKhoBV\QuanLyKho\bin\Debug\MaterialDesignColors.dll
+C:\Users\MyPC\Desktop\ĐA chính\QuanLyKhoBV\QuanLyKho\bin\Debug\MaterialDesignThemes.Wpf.dll
+C:\Users\MyPC\Desktop\ĐA chính\QuanLyKhoBV\QuanLyKho\bin\Debug\Microsoft.Expression.Interactions.dll
+C:\Users\MyPC\Desktop\ĐA chính\QuanLyKhoBV\QuanLyKho\bin\Debug\System.Windows.Interactivity.dll
+C:\Users\MyPC\Desktop\ĐA chính\QuanLyKhoBV\QuanLyKho\bin\Debug\WebDriver.dll
+C:\Users\MyPC\Desktop\ĐA chính\QuanLyKhoBV\QuanLyKho\bin\Debug\EntityFramework.xml
+C:\Users\MyPC\Desktop\ĐA chính\QuanLyKhoBV\QuanLyKho\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\MyPC\Desktop\ĐA chính\QuanLyKhoBV\QuanLyKho\bin\Debug\EPPlus.xml
+C:\Users\MyPC\Desktop\ĐA chính\QuanLyKhoBV\QuanLyKho\bin\Debug\MaterialDesignThemes.Wpf.pdb
+C:\Users\MyPC\Desktop\ĐA chính\QuanLyKhoBV\QuanLyKho\bin\Debug\MaterialDesignThemes.Wpf.xml
+C:\Users\MyPC\Desktop\ĐA chính\QuanLyKhoBV\QuanLyKho\bin\Debug\Microsoft.Expression.Interactions.xml
+C:\Users\MyPC\Desktop\ĐA chính\QuanLyKhoBV\QuanLyKho\bin\Debug\System.Windows.Interactivity.xml
+C:\Users\MyPC\Desktop\ĐA chính\QuanLyKhoBV\QuanLyKho\bin\Debug\WebDriver.xml
+C:\Users\MyPC\Desktop\ĐA chính\QuanLyKhoBV\QuanLyKho\obj\Debug\QuanLyKho.csprojResolveAssemblyReference.cache
+C:\Users\MyPC\Desktop\ĐA chính\QuanLyKhoBV\QuanLyKho\obj\Debug\ChangeUserWindow.g.cs
+C:\Users\MyPC\Desktop\ĐA chính\QuanLyKhoBV\QuanLyKho\obj\Debug\CustomerWindow.g.cs
+C:\Users\MyPC\Desktop\ĐA chính\QuanLyKhoBV\QuanLyKho\obj\Debug\InputWindow.g.cs
+C:\Users\MyPC\Desktop\ĐA chính\QuanLyKhoBV\QuanLyKho\obj\Debug\LoginWindow.g.cs
+C:\Users\MyPC\Desktop\ĐA chính\QuanLyKhoBV\QuanLyKho\obj\Debug\MainWindow.g.cs
+C:\Users\MyPC\Desktop\ĐA chính\QuanLyKhoBV\QuanLyKho\obj\Debug\ObjectWindow.g.cs
+C:\Users\MyPC\Desktop\ĐA chính\QuanLyKhoBV\QuanLyKho\obj\Debug\OutputWindow.g.cs
+C:\Users\MyPC\Desktop\ĐA chính\QuanLyKhoBV\QuanLyKho\obj\Debug\SuplierWindow.g.cs
+C:\Users\MyPC\Desktop\ĐA chính\QuanLyKhoBV\QuanLyKho\obj\Debug\TKInputWindow.g.cs
+C:\Users\MyPC\Desktop\ĐA chính\QuanLyKhoBV\QuanLyKho\obj\Debug\TKOutputWindow.g.cs
+C:\Users\MyPC\Desktop\ĐA chính\QuanLyKhoBV\QuanLyKho\obj\Debug\UnitWindow.g.cs
+C:\Users\MyPC\Desktop\ĐA chính\QuanLyKhoBV\QuanLyKho\obj\Debug\UserControlT\ControlBarUC.g.cs
+C:\Users\MyPC\Desktop\ĐA chính\QuanLyKhoBV\QuanLyKho\obj\Debug\UserWindow.g.cs
+C:\Users\MyPC\Desktop\ĐA chính\QuanLyKhoBV\QuanLyKho\obj\Debug\App.g.cs
+C:\Users\MyPC\Desktop\ĐA chính\QuanLyKhoBV\QuanLyKho\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\MyPC\Desktop\ĐA chính\QuanLyKhoBV\QuanLyKho\obj\Debug\QuanLyKho_MarkupCompile.cache
+C:\Users\MyPC\Desktop\ĐA chính\QuanLyKhoBV\QuanLyKho\obj\Debug\QuanLyKho_MarkupCompile.lref
+C:\Users\MyPC\Desktop\ĐA chính\QuanLyKhoBV\QuanLyKho\obj\Debug\App.baml
+C:\Users\MyPC\Desktop\ĐA chính\QuanLyKhoBV\QuanLyKho\obj\Debug\ChangeUserWindow.baml
+C:\Users\MyPC\Desktop\ĐA chính\QuanLyKhoBV\QuanLyKho\obj\Debug\CustomerWindow.baml
+C:\Users\MyPC\Desktop\ĐA chính\QuanLyKhoBV\QuanLyKho\obj\Debug\InputWindow.baml
+C:\Users\MyPC\Desktop\ĐA chính\QuanLyKhoBV\QuanLyKho\obj\Debug\LoginWindow.baml
+C:\Users\MyPC\Desktop\ĐA chính\QuanLyKhoBV\QuanLyKho\obj\Debug\MainWindow.baml
+C:\Users\MyPC\Desktop\ĐA chính\QuanLyKhoBV\QuanLyKho\obj\Debug\ObjectWindow.baml
+C:\Users\MyPC\Desktop\ĐA chính\QuanLyKhoBV\QuanLyKho\obj\Debug\OutputWindow.baml
+C:\Users\MyPC\Desktop\ĐA chính\QuanLyKhoBV\QuanLyKho\obj\Debug\ResourceXAML\MainResource.baml
+C:\Users\MyPC\Desktop\ĐA chính\QuanLyKhoBV\QuanLyKho\obj\Debug\SuplierWindow.baml
+C:\Users\MyPC\Desktop\ĐA chính\QuanLyKhoBV\QuanLyKho\obj\Debug\TKInputWindow.baml
+C:\Users\MyPC\Desktop\ĐA chính\QuanLyKhoBV\QuanLyKho\obj\Debug\TKOutputWindow.baml
+C:\Users\MyPC\Desktop\ĐA chính\QuanLyKhoBV\QuanLyKho\obj\Debug\UnitWindow.baml
+C:\Users\MyPC\Desktop\ĐA chính\QuanLyKhoBV\QuanLyKho\obj\Debug\UserControlT\ControlBarUC.baml
+C:\Users\MyPC\Desktop\ĐA chính\QuanLyKhoBV\QuanLyKho\obj\Debug\UserWindow.baml
+C:\Users\MyPC\Desktop\ĐA chính\QuanLyKhoBV\QuanLyKho\obj\Debug\QuanLyKho.g.resources
+C:\Users\MyPC\Desktop\ĐA chính\QuanLyKhoBV\QuanLyKho\obj\Debug\QuanLyKho.Properties.Resources.resources
+C:\Users\MyPC\Desktop\ĐA chính\QuanLyKhoBV\QuanLyKho\obj\Debug\QuanLyKho.csproj.GenerateResource.Cache
+C:\Users\MyPC\Desktop\Đồ Án\QuanLyKhoBV\QuanLyKho\bin\Debug\QuanLyKho.exe.config
+C:\Users\MyPC\Desktop\Đồ Án\QuanLyKhoBV\QuanLyKho\obj\Debug\QuanLyKho.csproj.ResolveComReference.cache
+C:\Users\MyPC\Desktop\Đồ Án\QuanLyKhoBV\QuanLyKho\obj\Debug\QuanLyKho.exe
+C:\Users\MyPC\Desktop\Đồ Án\QuanLyKhoBV\QuanLyKho\obj\Debug\QuanLyKho.pdb
+C:\Users\MyPC\Desktop\Đồ Án\QuanLyKhoThuocBV\QuanLyKho\bin\Debug\QuanLyKho.exe.config
+C:\Users\MyPC\Desktop\Đồ Án\QuanLyKhoThuocBV\QuanLyKho\obj\Debug\QuanLyKho.csproj.ResolveComReference.cache
+C:\Users\MyPC\Desktop\Đồ Án\QuanLyKhoThuocBV\QuanLyKho\obj\Debug\QuanLyKho.exe
+C:\Users\MyPC\Desktop\Đồ Án\QuanLyKhoThuocBV\QuanLyKho\obj\Debug\QuanLyKho.pdb
+C:\Users\MyPC\Desktop\Đồ Án\QuanLyKhoThuocBV\QuanLyKho\bin\Debug\QuanLyKho.exe
+C:\Users\MyPC\Desktop\Đồ Án\QuanLyKhoThuocBV\QuanLyKho\bin\Debug\QuanLyKho.pdb
+C:\Users\MyPC\Desktop\Đồ Án\QuanLyKhoThuocBV\QuanLyKho\bin\Debug\EntityFramework.dll
+C:\Users\MyPC\Desktop\Đồ Án\QuanLyKhoThuocBV\QuanLyKho\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\MyPC\Desktop\Đồ Án\QuanLyKhoThuocBV\QuanLyKho\bin\Debug\EPPlus.dll
+C:\Users\MyPC\Desktop\Đồ Án\QuanLyKhoThuocBV\QuanLyKho\bin\Debug\MaterialDesignColors.dll
+C:\Users\MyPC\Desktop\Đồ Án\QuanLyKhoThuocBV\QuanLyKho\bin\Debug\MaterialDesignThemes.Wpf.dll
+C:\Users\MyPC\Desktop\Đồ Án\QuanLyKhoThuocBV\QuanLyKho\bin\Debug\Microsoft.Expression.Interactions.dll
+C:\Users\MyPC\Desktop\Đồ Án\QuanLyKhoThuocBV\QuanLyKho\bin\Debug\System.Windows.Interactivity.dll
+C:\Users\MyPC\Desktop\Đồ Án\QuanLyKhoThuocBV\QuanLyKho\bin\Debug\WebDriver.dll
+C:\Users\MyPC\Desktop\Đồ Án\QuanLyKhoThuocBV\QuanLyKho\bin\Debug\EntityFramework.xml
+C:\Users\MyPC\Desktop\Đồ Án\QuanLyKhoThuocBV\QuanLyKho\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\MyPC\Desktop\Đồ Án\QuanLyKhoThuocBV\QuanLyKho\bin\Debug\EPPlus.xml
+C:\Users\MyPC\Desktop\Đồ Án\QuanLyKhoThuocBV\QuanLyKho\bin\Debug\MaterialDesignThemes.Wpf.pdb
+C:\Users\MyPC\Desktop\Đồ Án\QuanLyKhoThuocBV\QuanLyKho\bin\Debug\MaterialDesignThemes.Wpf.xml
+C:\Users\MyPC\Desktop\Đồ Án\QuanLyKhoThuocBV\QuanLyKho\bin\Debug\Microsoft.Expression.Interactions.xml
+C:\Users\MyPC\Desktop\Đồ Án\QuanLyKhoThuocBV\QuanLyKho\bin\Debug\System.Windows.Interactivity.xml
+C:\Users\MyPC\Desktop\Đồ Án\QuanLyKhoThuocBV\QuanLyKho\bin\Debug\WebDriver.xml
+C:\Users\MyPC\Desktop\Đồ Án\QuanLyKhoThuocBV\QuanLyKho\obj\Debug\QuanLyKho.csprojResolveAssemblyReference.cache
+C:\Users\MyPC\Desktop\Đồ Án\QuanLyKhoThuocBV\QuanLyKho\obj\Debug\ChangeUserWindow.g.cs
+C:\Users\MyPC\Desktop\Đồ Án\QuanLyKhoThuocBV\QuanLyKho\obj\Debug\CustomerWindow.g.cs
+C:\Users\MyPC\Desktop\Đồ Án\QuanLyKhoThuocBV\QuanLyKho\obj\Debug\InputWindow.g.cs
+C:\Users\MyPC\Desktop\Đồ Án\QuanLyKhoThuocBV\QuanLyKho\obj\Debug\LoginWindow.g.cs
+C:\Users\MyPC\Desktop\Đồ Án\QuanLyKhoThuocBV\QuanLyKho\obj\Debug\MainWindow.g.cs
+C:\Users\MyPC\Desktop\Đồ Án\QuanLyKhoThuocBV\QuanLyKho\obj\Debug\ObjectWindow.g.cs
+C:\Users\MyPC\Desktop\Đồ Án\QuanLyKhoThuocBV\QuanLyKho\obj\Debug\OutputWindow.g.cs
+C:\Users\MyPC\Desktop\Đồ Án\QuanLyKhoThuocBV\QuanLyKho\obj\Debug\SuplierWindow.g.cs
+C:\Users\MyPC\Desktop\Đồ Án\QuanLyKhoThuocBV\QuanLyKho\obj\Debug\TKInputWindow.g.cs
+C:\Users\MyPC\Desktop\Đồ Án\QuanLyKhoThuocBV\QuanLyKho\obj\Debug\TKOutputWindow.g.cs
+C:\Users\MyPC\Desktop\Đồ Án\QuanLyKhoThuocBV\QuanLyKho\obj\Debug\UnitWindow.g.cs
+C:\Users\MyPC\Desktop\Đồ Án\QuanLyKhoThuocBV\QuanLyKho\obj\Debug\UserControlT\ControlBarUC.g.cs
+C:\Users\MyPC\Desktop\Đồ Án\QuanLyKhoThuocBV\QuanLyKho\obj\Debug\UserWindow.g.cs
+C:\Users\MyPC\Desktop\Đồ Án\QuanLyKhoThuocBV\QuanLyKho\obj\Debug\App.g.cs
+C:\Users\MyPC\Desktop\Đồ Án\QuanLyKhoThuocBV\QuanLyKho\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\MyPC\Desktop\Đồ Án\QuanLyKhoThuocBV\QuanLyKho\obj\Debug\QuanLyKho_MarkupCompile.cache
+C:\Users\MyPC\Desktop\Đồ Án\QuanLyKhoThuocBV\QuanLyKho\obj\Debug\QuanLyKho_MarkupCompile.lref
+C:\Users\MyPC\Desktop\Đồ Án\QuanLyKhoThuocBV\QuanLyKho\obj\Debug\App.baml
+C:\Users\MyPC\Desktop\Đồ Án\QuanLyKhoThuocBV\QuanLyKho\obj\Debug\ChangeUserWindow.baml
+C:\Users\MyPC\Desktop\Đồ Án\QuanLyKhoThuocBV\QuanLyKho\obj\Debug\CustomerWindow.baml
+C:\Users\MyPC\Desktop\Đồ Án\QuanLyKhoThuocBV\QuanLyKho\obj\Debug\InputWindow.baml
+C:\Users\MyPC\Desktop\Đồ Án\QuanLyKhoThuocBV\QuanLyKho\obj\Debug\LoginWindow.baml
+C:\Users\MyPC\Desktop\Đồ Án\QuanLyKhoThuocBV\QuanLyKho\obj\Debug\MainWindow.baml
+C:\Users\MyPC\Desktop\Đồ Án\QuanLyKhoThuocBV\QuanLyKho\obj\Debug\ObjectWindow.baml
+C:\Users\MyPC\Desktop\Đồ Án\QuanLyKhoThuocBV\QuanLyKho\obj\Debug\OutputWindow.baml
+C:\Users\MyPC\Desktop\Đồ Án\QuanLyKhoThuocBV\QuanLyKho\obj\Debug\ResourceXAML\MainResource.baml
+C:\Users\MyPC\Desktop\Đồ Án\QuanLyKhoThuocBV\QuanLyKho\obj\Debug\SuplierWindow.baml
+C:\Users\MyPC\Desktop\Đồ Án\QuanLyKhoThuocBV\QuanLyKho\obj\Debug\TKInputWindow.baml
+C:\Users\MyPC\Desktop\Đồ Án\QuanLyKhoThuocBV\QuanLyKho\obj\Debug\TKOutputWindow.baml
+C:\Users\MyPC\Desktop\Đồ Án\QuanLyKhoThuocBV\QuanLyKho\obj\Debug\UnitWindow.baml
+C:\Users\MyPC\Desktop\Đồ Án\QuanLyKhoThuocBV\QuanLyKho\obj\Debug\UserControlT\ControlBarUC.baml
+C:\Users\MyPC\Desktop\Đồ Án\QuanLyKhoThuocBV\QuanLyKho\obj\Debug\UserWindow.baml
+C:\Users\MyPC\Desktop\Đồ Án\QuanLyKhoThuocBV\QuanLyKho\obj\Debug\QuanLyKho.g.resources
+C:\Users\MyPC\Desktop\Đồ Án\QuanLyKhoThuocBV\QuanLyKho\obj\Debug\QuanLyKho.Properties.Resources.resources
+C:\Users\MyPC\Desktop\Đồ Án\QuanLyKhoThuocBV\QuanLyKho\obj\Debug\QuanLyKho.csproj.GenerateResource.Cache
+C:\Users\MyPC\Desktop\TranTanTai-1551010117\Đồ Án\QuanLyKhoThuocBV\QuanLyKho\bin\Debug\QuanLyKho.exe.config
+C:\Users\MyPC\Desktop\TranTanTai-1551010117\Đồ Án\QuanLyKhoThuocBV\QuanLyKho\obj\Debug\QuanLyKho.csproj.ResolveComReference.cache
+C:\Users\MyPC\Desktop\TranTanTai-1551010117\Đồ Án\QuanLyKhoThuocBV\QuanLyKho\obj\Debug\QuanLyKho.exe
+C:\Users\MyPC\Desktop\TranTanTai-1551010117\Đồ Án\QuanLyKhoThuocBV\QuanLyKho\obj\Debug\QuanLyKho.pdb
+C:\Users\MyPC\Desktop\TranTanTai-1551010117\Đồ Án\QuanLyKhoThuocBV\QuanLyKho\bin\Debug\QuanLyKho.exe
+C:\Users\MyPC\Desktop\TranTanTai-1551010117\Đồ Án\QuanLyKhoThuocBV\QuanLyKho\bin\Debug\QuanLyKho.pdb
+C:\Users\MyPC\Desktop\TranTanTai-1551010117\Đồ Án\QuanLyKhoThuocBV\QuanLyKho\bin\Debug\EntityFramework.dll
+C:\Users\MyPC\Desktop\TranTanTai-1551010117\Đồ Án\QuanLyKhoThuocBV\QuanLyKho\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\MyPC\Desktop\TranTanTai-1551010117\Đồ Án\QuanLyKhoThuocBV\QuanLyKho\bin\Debug\EPPlus.dll
+C:\Users\MyPC\Desktop\TranTanTai-1551010117\Đồ Án\QuanLyKhoThuocBV\QuanLyKho\bin\Debug\MaterialDesignColors.dll
+C:\Users\MyPC\Desktop\TranTanTai-1551010117\Đồ Án\QuanLyKhoThuocBV\QuanLyKho\bin\Debug\MaterialDesignThemes.Wpf.dll
+C:\Users\MyPC\Desktop\TranTanTai-1551010117\Đồ Án\QuanLyKhoThuocBV\QuanLyKho\bin\Debug\Microsoft.Expression.Interactions.dll
+C:\Users\MyPC\Desktop\TranTanTai-1551010117\Đồ Án\QuanLyKhoThuocBV\QuanLyKho\bin\Debug\System.Windows.Interactivity.dll
+C:\Users\MyPC\Desktop\TranTanTai-1551010117\Đồ Án\QuanLyKhoThuocBV\QuanLyKho\bin\Debug\WebDriver.dll
+C:\Users\MyPC\Desktop\TranTanTai-1551010117\Đồ Án\QuanLyKhoThuocBV\QuanLyKho\bin\Debug\EntityFramework.xml
+C:\Users\MyPC\Desktop\TranTanTai-1551010117\Đồ Án\QuanLyKhoThuocBV\QuanLyKho\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\MyPC\Desktop\TranTanTai-1551010117\Đồ Án\QuanLyKhoThuocBV\QuanLyKho\bin\Debug\EPPlus.xml
+C:\Users\MyPC\Desktop\TranTanTai-1551010117\Đồ Án\QuanLyKhoThuocBV\QuanLyKho\bin\Debug\MaterialDesignThemes.Wpf.pdb
+C:\Users\MyPC\Desktop\TranTanTai-1551010117\Đồ Án\QuanLyKhoThuocBV\QuanLyKho\bin\Debug\MaterialDesignThemes.Wpf.xml
+C:\Users\MyPC\Desktop\TranTanTai-1551010117\Đồ Án\QuanLyKhoThuocBV\QuanLyKho\bin\Debug\Microsoft.Expression.Interactions.xml
+C:\Users\MyPC\Desktop\TranTanTai-1551010117\Đồ Án\QuanLyKhoThuocBV\QuanLyKho\bin\Debug\System.Windows.Interactivity.xml
+C:\Users\MyPC\Desktop\TranTanTai-1551010117\Đồ Án\QuanLyKhoThuocBV\QuanLyKho\bin\Debug\WebDriver.xml
+C:\Users\MyPC\Desktop\TranTanTai-1551010117\Đồ Án\QuanLyKhoThuocBV\QuanLyKho\obj\Debug\QuanLyKho.csprojResolveAssemblyReference.cache
+C:\Users\MyPC\Desktop\TranTanTai-1551010117\Đồ Án\QuanLyKhoThuocBV\QuanLyKho\obj\Debug\ChangeUserWindow.g.cs
+C:\Users\MyPC\Desktop\TranTanTai-1551010117\Đồ Án\QuanLyKhoThuocBV\QuanLyKho\obj\Debug\CustomerWindow.g.cs
+C:\Users\MyPC\Desktop\TranTanTai-1551010117\Đồ Án\QuanLyKhoThuocBV\QuanLyKho\obj\Debug\InputWindow.g.cs
+C:\Users\MyPC\Desktop\TranTanTai-1551010117\Đồ Án\QuanLyKhoThuocBV\QuanLyKho\obj\Debug\LoginWindow.g.cs
+C:\Users\MyPC\Desktop\TranTanTai-1551010117\Đồ Án\QuanLyKhoThuocBV\QuanLyKho\obj\Debug\MainWindow.g.cs
+C:\Users\MyPC\Desktop\TranTanTai-1551010117\Đồ Án\QuanLyKhoThuocBV\QuanLyKho\obj\Debug\ObjectWindow.g.cs
+C:\Users\MyPC\Desktop\TranTanTai-1551010117\Đồ Án\QuanLyKhoThuocBV\QuanLyKho\obj\Debug\OutputWindow.g.cs
+C:\Users\MyPC\Desktop\TranTanTai-1551010117\Đồ Án\QuanLyKhoThuocBV\QuanLyKho\obj\Debug\SuplierWindow.g.cs
+C:\Users\MyPC\Desktop\TranTanTai-1551010117\Đồ Án\QuanLyKhoThuocBV\QuanLyKho\obj\Debug\TKInputWindow.g.cs
+C:\Users\MyPC\Desktop\TranTanTai-1551010117\Đồ Án\QuanLyKhoThuocBV\QuanLyKho\obj\Debug\TKOutputWindow.g.cs
+C:\Users\MyPC\Desktop\TranTanTai-1551010117\Đồ Án\QuanLyKhoThuocBV\QuanLyKho\obj\Debug\UnitWindow.g.cs
+C:\Users\MyPC\Desktop\TranTanTai-1551010117\Đồ Án\QuanLyKhoThuocBV\QuanLyKho\obj\Debug\UserControlT\ControlBarUC.g.cs
+C:\Users\MyPC\Desktop\TranTanTai-1551010117\Đồ Án\QuanLyKhoThuocBV\QuanLyKho\obj\Debug\UserWindow.g.cs
+C:\Users\MyPC\Desktop\TranTanTai-1551010117\Đồ Án\QuanLyKhoThuocBV\QuanLyKho\obj\Debug\App.g.cs
+C:\Users\MyPC\Desktop\TranTanTai-1551010117\Đồ Án\QuanLyKhoThuocBV\QuanLyKho\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\MyPC\Desktop\TranTanTai-1551010117\Đồ Án\QuanLyKhoThuocBV\QuanLyKho\obj\Debug\QuanLyKho_MarkupCompile.cache
+C:\Users\MyPC\Desktop\TranTanTai-1551010117\Đồ Án\QuanLyKhoThuocBV\QuanLyKho\obj\Debug\QuanLyKho_MarkupCompile.lref
+C:\Users\MyPC\Desktop\TranTanTai-1551010117\Đồ Án\QuanLyKhoThuocBV\QuanLyKho\obj\Debug\App.baml
+C:\Users\MyPC\Desktop\TranTanTai-1551010117\Đồ Án\QuanLyKhoThuocBV\QuanLyKho\obj\Debug\ChangeUserWindow.baml
+C:\Users\MyPC\Desktop\TranTanTai-1551010117\Đồ Án\QuanLyKhoThuocBV\QuanLyKho\obj\Debug\CustomerWindow.baml
+C:\Users\MyPC\Desktop\TranTanTai-1551010117\Đồ Án\QuanLyKhoThuocBV\QuanLyKho\obj\Debug\InputWindow.baml
+C:\Users\MyPC\Desktop\TranTanTai-1551010117\Đồ Án\QuanLyKhoThuocBV\QuanLyKho\obj\Debug\LoginWindow.baml
+C:\Users\MyPC\Desktop\TranTanTai-1551010117\Đồ Án\QuanLyKhoThuocBV\QuanLyKho\obj\Debug\MainWindow.baml
+C:\Users\MyPC\Desktop\TranTanTai-1551010117\Đồ Án\QuanLyKhoThuocBV\QuanLyKho\obj\Debug\ObjectWindow.baml
+C:\Users\MyPC\Desktop\TranTanTai-1551010117\Đồ Án\QuanLyKhoThuocBV\QuanLyKho\obj\Debug\OutputWindow.baml
+C:\Users\MyPC\Desktop\TranTanTai-1551010117\Đồ Án\QuanLyKhoThuocBV\QuanLyKho\obj\Debug\ResourceXAML\MainResource.baml
+C:\Users\MyPC\Desktop\TranTanTai-1551010117\Đồ Án\QuanLyKhoThuocBV\QuanLyKho\obj\Debug\SuplierWindow.baml
+C:\Users\MyPC\Desktop\TranTanTai-1551010117\Đồ Án\QuanLyKhoThuocBV\QuanLyKho\obj\Debug\TKInputWindow.baml
+C:\Users\MyPC\Desktop\TranTanTai-1551010117\Đồ Án\QuanLyKhoThuocBV\QuanLyKho\obj\Debug\TKOutputWindow.baml
+C:\Users\MyPC\Desktop\TranTanTai-1551010117\Đồ Án\QuanLyKhoThuocBV\QuanLyKho\obj\Debug\UnitWindow.baml
+C:\Users\MyPC\Desktop\TranTanTai-1551010117\Đồ Án\QuanLyKhoThuocBV\QuanLyKho\obj\Debug\UserControlT\ControlBarUC.baml
+C:\Users\MyPC\Desktop\TranTanTai-1551010117\Đồ Án\QuanLyKhoThuocBV\QuanLyKho\obj\Debug\UserWindow.baml
+C:\Users\MyPC\Desktop\TranTanTai-1551010117\Đồ Án\QuanLyKhoThuocBV\QuanLyKho\obj\Debug\QuanLyKho.g.resources
+C:\Users\MyPC\Desktop\TranTanTai-1551010117\Đồ Án\QuanLyKhoThuocBV\QuanLyKho\obj\Debug\QuanLyKho.Properties.Resources.resources
+C:\Users\MyPC\Desktop\TranTanTai-1551010117\Đồ Án\QuanLyKhoThuocBV\QuanLyKho\obj\Debug\QuanLyKho.csproj.GenerateResource.Cache

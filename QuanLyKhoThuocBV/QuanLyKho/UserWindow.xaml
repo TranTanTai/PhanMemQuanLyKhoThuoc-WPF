@@ -1,0 +1,79 @@
+﻿<Window x:Class="QuanLyKho.UserWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:QuanLyKho"
+        mc:Ignorable="d"
+        
+        xmlns:uc="clr-namespace:QuanLyKho.UserControlT"
+        xmlns:materialDesign="http://materialdesigninxaml.net/winfx/xaml/themes"
+        TextElement.Foreground="{DynamicResource MaterialDesignBody}"
+        TextElement.FontWeight="Regular"
+        TextElement.FontSize="13"
+        TextOptions.TextFormattingMode="Ideal"
+        TextOptions.TextRenderingMode="Auto"
+        FontFamily="{DynamicResource MaterialDesignFont}"
+        DataContext="{StaticResource UserVM}"
+        WindowStyle="None"
+        WindowStartupLocation="CenterScreen"
+        x:Name="window"
+        Icon="icon.ico"
+        xmlns:i="http://schemas.microsoft.com/expression/2010/interactivity"
+        Title="Tài khoản" Height="500" Width="700">
+    <Window.Background>
+        <ImageBrush ImageSource="background.jpg"/>
+    </Window.Background>
+    <Grid>
+        <Grid.InputBindings>
+            <KeyBinding Key="F2" Command="{Binding AddCommand}" />
+            <KeyBinding Key="F4" Command="{Binding DeleteCommand}"/>
+            <KeyBinding Key="F6" Command="{Binding ChangePasswordCommand}"/>
+        </Grid.InputBindings>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="auto"></RowDefinition>
+            <RowDefinition></RowDefinition>
+        </Grid.RowDefinitions>
+        <Grid Grid.Row="0">
+            <uc:ControlBarUC Tag="{Binding Title, ElementName=window}"></uc:ControlBarUC>
+        </Grid>
+        <Grid Grid.Row="1">
+            <Grid.RowDefinitions>
+                <RowDefinition Height="auto"></RowDefinition>
+                <RowDefinition Height="auto"></RowDefinition>
+                <RowDefinition></RowDefinition>
+            </Grid.RowDefinitions>
+            <!--các element binding từ selected item-->
+            <materialDesign:Card Grid.Row="0" Margin="5">
+                <WrapPanel Margin="0 0 0 10">
+                    <TextBox Text="{Binding UserName, UpdateSourceTrigger=PropertyChanged}" Margin="5 5 15 5" materialDesign:HintAssist.Hint="Tên đăng nhập" Style="{StaticResource MaterialDesignFloatingHintTextBox}" MaxLength="20" />
+                    <ComboBox Margin="5 5 15 5" DisplayMemberPath="DisplayName" ItemsSource="{Binding Role}" SelectedItem="{Binding SelectedRole, Mode=TwoWay, UpdateSourceTrigger=PropertyChanged}" materialDesign:HintAssist.Hint="Quyền" IsEditable="True" Style="{StaticResource MaterialDesignFloatingHintComboBox}"></ComboBox>
+                    <TextBox Text="{Binding DisplayName, UpdateSourceTrigger=PropertyChanged}" Margin="5 5 15 5" materialDesign:HintAssist.Hint="Tên hiển thị" Style="{StaticResource MaterialDesignFloatingHintTextBox}" />
+                    <Button Command="{Binding AddCommand}" Content="_Thêm(F2)" Margin="5 0 0 2" Width="100" Background="Blue" BorderBrush="Blue" HorizontalContentAlignment="Center" VerticalAlignment="Bottom" IsDefault="True"/>
+                </WrapPanel>
+            </materialDesign:Card>
+
+            <materialDesign:Card Grid.Row="1" Margin="5 0 5 5">
+                <WrapPanel>
+                    <Button Command="{Binding DeleteCommand}" Content="_Xóa(F4)" Margin="5" Width="90" Background="Blue" BorderBrush="Blue"></Button>
+                    <Button Command="{Binding ChangePasswordCommand}" Content="_Thay đổi thông tin(F6)" Margin="5" Width="165" Background="Blue" BorderBrush="Blue" Padding="5,4"></Button>
+                </WrapPanel>
+            </materialDesign:Card>
+
+            <materialDesign:Card Grid.Row="2" Margin="5" VerticalAlignment="Stretch">
+                <ScrollViewer VerticalScrollBarVisibility="Auto">
+                    <ListView ItemsSource="{Binding List}" SelectedItem="{Binding SelectedItem, Mode=OneWayToSource}">
+                        <ListView.View>
+                            <GridView>
+                                <GridViewColumn Header="Id" DisplayMemberBinding="{Binding Id}"></GridViewColumn>
+                                <GridViewColumn Header="Tên đăng nhập" DisplayMemberBinding="{Binding UserName}"></GridViewColumn>
+                                <GridViewColumn Header="Chức vụ" DisplayMemberBinding="{Binding UserRole.DisplayName}"></GridViewColumn>
+                                <GridViewColumn Header="Tên hiển thị" DisplayMemberBinding="{Binding DisplayName}"></GridViewColumn>
+                            </GridView>
+                        </ListView.View>
+                    </ListView>
+                </ScrollViewer>
+            </materialDesign:Card>
+        </Grid>
+    </Grid>
+</Window>
